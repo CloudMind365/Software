@@ -7,7 +7,7 @@ First manual rundown of HTML
 
 <head>
     <meta charset="utf-8">
-    <title>Video Compilation Page</title>
+    <title>Soccer Highlights around the globe!</title>
 </head>
 
 <body>
